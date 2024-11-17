@@ -14,7 +14,7 @@ New Fix
      **                  Telegram  : @kikikokok9                       **
      **                  Email     : riskymanuel08@proton.me           **
      ====================================================================
- 
+</pre>
 
 ## Sample Demo
 <a href="https://ibb.co.com/6RwwtMZ"><img src="https://i.ibb.co.com/kgBBD7y/2R.jpg" alt="2R" border="0"></a>
